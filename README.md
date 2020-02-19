@@ -1,5 +1,5 @@
 # advent_of_code_2019
-advent of code 2019, i got filtered day 10
+advent of code 2019, i got filtered day 10 because i was too lazy to do a rewrite of my day5 intcode stuff
 
 latest versions are the working ones
 
